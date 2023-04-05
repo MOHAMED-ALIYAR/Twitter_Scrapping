@@ -1,3 +1,5 @@
+DEMO LINK: https://www.linkedin.com/feed/update/urn:li:activity:7049461111846285312/
+
 # TWITTER SCRAPPING
 
 A brief description of what this project does and who it's for The scraping of social media websites is the process of gathering, analyzing, and presenting actionable patterns and insights from social media data.Scraping Twitter can yield many insights into sentiments, opinions and social media trends and could help to build a programmatic SEO project. Analysing tweets, shares, likes, URLs and interests is a powerful way to derive insight into public conversations and business purposes.
