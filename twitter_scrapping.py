@@ -1,6 +1,6 @@
+import streamlit as st
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
-import streamlit as st
 import datetime
 import pymongo as py
 from PIL import Image
